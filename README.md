@@ -3,7 +3,7 @@
 
 This project is use react-chatbot-kit for chatbot so you have to install it on your project.
 
-[Live Demo](https://kakadiyakeyur53.github.io/chatbot-using-react/)
+
 
 ## npm requirements
 
